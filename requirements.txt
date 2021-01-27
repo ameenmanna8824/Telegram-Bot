@@ -1,2 +1,2 @@
-adafruit_IO
+adafruit_IO==2.5.0
 python-telegram-bot==12.8

@@ -1,1 +1,1 @@
-worker: python amn.py
+worker: python ameer.py
